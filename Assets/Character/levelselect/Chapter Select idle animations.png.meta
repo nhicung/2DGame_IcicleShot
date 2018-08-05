@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: f4ac90e4e801a674f873fe30f60fca1d
+timeCreated: 1519145279
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chapter Select idle animations_0
+    21300002: Chapter Select idle animations_1
+    21300004: Chapter Select idle animations_2
+    21300006: Chapter Select idle animations_3
+    21300008: Chapter Select idle animations_4
+    21300010: Chapter Select idle animations_5
+    21300012: Chapter Select idle animations_6
+    21300014: Chapter Select idle animations_7
+    21300016: Chapter Select idle animations_8
+    21300018: Chapter Select idle animations_9
+    21300020: Chapter Select idle animations_10
+    21300022: Chapter Select idle animations_11
+    21300024: Chapter Select idle animations_12
+    21300026: Chapter Select idle animations_13
+    21300028: Chapter Select idle animations_14
+    21300030: Chapter Select idle animations_15
+    21300032: Chapter Select idle animations_16
+    21300034: Chapter Select idle animations_17
+    21300036: Chapter Select idle animations_18
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chapter Select idle animations_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6262
+        width: 1467
+        height: 1924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_1
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 6222
+        width: 1481
+        height: 1912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_2
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 6270
+        width: 1481
+        height: 1882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_3
+      rect:
+        serializedVersion: 2
+        x: 5167
+        y: 6326
+        width: 1482
+        height: 1820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4208
+        width: 1479
+        height: 1931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_5
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 4169
+        width: 1484
+        height: 1931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_6
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 4185
+        width: 1483
+        height: 1931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_7
+      rect:
+        serializedVersion: 2
+        x: 5101
+        y: 4129
+        width: 1483
+        height: 1923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_8
+      rect:
+        serializedVersion: 2
+        x: 6667
+        y: 4169
+        width: 1484
+        height: 1911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2077
+        width: 1481
+        height: 1932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_10
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 2049
+        width: 1477
+        height: 1929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_11
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 2077
+        width: 1470
+        height: 1928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_12
+      rect:
+        serializedVersion: 2
+        x: 5108
+        y: 2109
+        width: 1464
+        height: 1924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_13
+      rect:
+        serializedVersion: 2
+        x: 6660
+        y: 2065
+        width: 1476
+        height: 1916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 44
+        width: 1481
+        height: 1931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_15
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 0
+        width: 1481
+        height: 1919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_16
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 0
+        width: 1480
+        height: 1911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_17
+      rect:
+        serializedVersion: 2
+        x: 5092
+        y: 3
+        width: 1481
+        height: 1932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chapter Select idle animations_18
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 30
+        width: 1481
+        height: 1933
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

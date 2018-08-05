@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 0a7b876e44e94a24da29eab092718e67
+timeCreated: 1520527114
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: idle still 2-02_0
+    21300002: idle still 2-02_1
+    21300004: idle still 2-02_2
+    21300006: idle still 2-02_3
+    21300008: idle still 2-02_4
+    21300010: idle still 2-02_5
+    21300012: idle still 2-02_6
+    21300014: idle still 2-02_7
+    21300016: idle still 2-02_8
+    21300018: idle still 2-02_9
+    21300020: idle still 2-02_10
+    21300022: idle still 2-02_11
+    21300024: idle still 2-02_12
+    21300026: idle still 2-02_13
+    21300028: idle still 2-02_14
+    21300030: idle still 2-02_15
+    21300032: idle still 2-02_16
+    21300034: idle still 2-02_17
+    21300036: idle still 2-02_18
+    21300038: idle still 2-02_19
+    21300040: idle still 2-02_20
+    21300042: idle still 2-02_21
+    21300044: idle still 2-02_22
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle still 2-02_0
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 4712
+        width: 722
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_1
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 4714
+        width: 721
+        height: 939
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_2
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 4691
+        width: 720
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_3
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 4683
+        width: 719
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_4
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 4660
+        width: 722
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 3627
+        width: 721
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_6
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 3602
+        width: 721
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_7
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 3648
+        width: 721
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_8
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 3636
+        width: 721
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_9
+      rect:
+        serializedVersion: 2
+        x: 3925
+        y: 3579
+        width: 721
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2550
+        width: 721
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_11
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2541
+        width: 722
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_12
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2547
+        width: 722
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_13
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 2512
+        width: 722
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_14
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 2475
+        width: 725
+        height: 939
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_15
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1452
+        width: 721
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_16
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1431
+        width: 722
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_17
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 1378
+        width: 722
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_18
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1325
+        width: 721
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_19
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 1383
+        width: 722
+        height: 939
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_20
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 242
+        width: 722
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_21
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 174
+        width: 721
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: idle still 2-02_22
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 137
+        width: 721
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

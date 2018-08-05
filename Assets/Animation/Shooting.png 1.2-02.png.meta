@@ -1,0 +1,1602 @@
+fileFormatVersion: 2
+guid: a5cf2b035b0af264ab2db87e42727925
+timeCreated: 1520730987
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shooting.png 1.2-02_0
+    21300002: Shooting.png 1.2-02_1
+    21300004: Shooting.png 1.2-02_2
+    21300006: Shooting.png 1.2-02_3
+    21300008: Shooting.png 1.2-02_4
+    21300010: Shooting.png 1.2-02_5
+    21300012: Shooting.png 1.2-02_6
+    21300014: Shooting.png 1.2-02_7
+    21300016: Shooting.png 1.2-02_8
+    21300018: Shooting.png 1.2-02_9
+    21300020: Shooting.png 1.2-02_10
+    21300022: Shooting.png 1.2-02_11
+    21300024: Shooting.png 1.2-02_12
+    21300026: Shooting.png 1.2-02_13
+    21300028: Shooting.png 1.2-02_14
+    21300030: Shooting.png 1.2-02_15
+    21300032: Shooting.png 1.2-02_16
+    21300034: Shooting.png 1.2-02_17
+    21300036: Shooting.png 1.2-02_18
+    21300038: Shooting.png 1.2-02_19
+    21300040: Shooting.png 1.2-02_20
+    21300042: Shooting.png 1.2-02_21
+    21300044: Shooting.png 1.2-02_22
+    21300046: Shooting.png 1.2-02_23
+    21300048: Shooting.png 1.2-02_24
+    21300050: Shooting.png 1.2-02_25
+    21300052: Shooting.png 1.2-02_26
+    21300054: Shooting.png 1.2-02_27
+    21300056: Shooting.png 1.2-02_28
+    21300058: Shooting.png 1.2-02_29
+    21300060: Shooting.png 1.2-02_30
+    21300062: Shooting.png 1.2-02_31
+    21300064: Shooting.png 1.2-02_32
+    21300066: Shooting.png 1.2-02_33
+    21300068: Shooting.png 1.2-02_34
+    21300070: Shooting.png 1.2-02_35
+    21300072: Shooting.png 1.2-02_36
+    21300074: Shooting.png 1.2-02_37
+    21300076: Shooting.png 1.2-02_38
+    21300078: Shooting.png 1.2-02_39
+    21300080: Shooting.png 1.2-02_40
+    21300082: Shooting.png 1.2-02_41
+    21300084: Shooting.png 1.2-02_42
+    21300086: Shooting.png 1.2-02_43
+    21300088: Shooting.png 1.2-02_44
+    21300090: Shooting.png 1.2-02_45
+    21300092: Shooting.png 1.2-02_46
+    21300094: Shooting.png 1.2-02_47
+    21300096: Shooting.png 1.2-02_48
+    21300098: Shooting.png 1.2-02_49
+    21300100: Shooting.png 1.2-02_50
+    21300102: Shooting.png 1.2-02_51
+    21300104: Shooting.png 1.2-02_52
+    21300106: Shooting.png 1.2-02_53
+    21300108: Shooting.png 1.2-02_54
+    21300110: Shooting.png 1.2-02_55
+    21300112: Shooting.png 1.2-02_56
+    21300114: Shooting.png 1.2-02_57
+    21300116: Shooting.png 1.2-02_58
+    21300118: Shooting.png 1.2-02_59
+    21300120: Shooting.png 1.2-02_60
+    21300122: Shooting.png 1.2-02_61
+    21300124: Shooting.png 1.2-02_62
+    21300126: Shooting.png 1.2-02_63
+    21300128: Shooting.png 1.2-02_64
+    21300130: Shooting.png 1.2-02_65
+    21300132: Shooting.png 1.2-02_66
+    21300134: Shooting.png 1.2-02_67
+    21300136: Shooting.png 1.2-02_68
+    21300138: Shooting.png 1.2-02_69
+    21300140: Shooting.png 1.2-02_70
+    21300142: Shooting.png 1.2-02_71
+    21300144: Shooting.png 1.2-02_72
+    21300146: Shooting.png 1.2-02_73
+    21300148: Shooting.png 1.2-02_74
+    21300150: Shooting.png 1.2-02_75
+    21300152: Shooting.png 1.2-02_76
+    21300154: Shooting.png 1.2-02_77
+    21300156: Shooting.png 1.2-02_78
+    21300158: Shooting.png 1.2-02_79
+    21300160: Shooting.png 1.2-02_80
+    21300162: Shooting.png 1.2-02_81
+    21300164: Shooting.png 1.2-02_82
+    21300166: Shooting.png 1.2-02_83
+    21300168: Shooting.png 1.2-02_84
+    21300170: Shooting.png 1.2-02_85
+    21300172: Shooting.png 1.2-02_86
+    21300174: Shooting.png 1.2-02_87
+    21300176: Shooting.png 1.2-02_88
+    21300178: Shooting.png 1.2-02_89
+    21300180: Shooting.png 1.2-02_90
+    21300182: Shooting.png 1.2-02_91
+    21300184: Shooting.png 1.2-02_92
+    21300186: Shooting.png 1.2-02_93
+    21300188: Shooting.png 1.2-02_94
+    21300190: Shooting.png 1.2-02_95
+    21300192: Shooting.png 1.2-02_96
+    21300194: Shooting.png 1.2-02_97
+    21300196: Shooting.png 1.2-02_98
+    21300198: Shooting.png 1.2-02_99
+    21300200: Shooting.png 1.2-02_100
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4475
+        width: 162
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 4460
+        width: 161
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_2
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 4460
+        width: 162
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_3
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 4463
+        width: 162
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_4
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 4456
+        width: 162
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_5
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 4458
+        width: 162
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_6
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 4456
+        width: 161
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 4194
+        width: 161
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 4187
+        width: 161
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_9
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 4183
+        width: 162
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_10
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 4169
+        width: 161
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_11
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 4164
+        width: 161
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_12
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 4166
+        width: 162
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_13
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 4147
+        width: 166
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3928
+        width: 171
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_15
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3933
+        width: 175
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_16
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3933
+        width: 183
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_17
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 3918
+        width: 186
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_18
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3921
+        width: 191
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_19
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 3904
+        width: 196
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_20
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 3882
+        width: 198
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3688
+        width: 199
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3669
+        width: 199
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_23
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3666
+        width: 199
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_24
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 3660
+        width: 199
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_25
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 3667
+        width: 199
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_26
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 3646
+        width: 201
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_27
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 3615
+        width: 204
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3419
+        width: 204
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3402
+        width: 206
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_30
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 3405
+        width: 205
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_31
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 3400
+        width: 204
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_32
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 3395
+        width: 204
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_33
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 3391
+        width: 205
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_34
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 3382
+        width: 206
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_35
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3104
+        width: 205
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_36
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 3104
+        width: 210
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3110
+        width: 211
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_38
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 3104
+        width: 210
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_39
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 3092
+        width: 209
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_40
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 3090
+        width: 213
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_41
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 3083
+        width: 213
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2840
+        width: 213
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_43
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2812
+        width: 215
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_44
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 2800
+        width: 213
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_45
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2800
+        width: 209
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_46
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 2796
+        width: 209
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_47
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 2800
+        width: 209
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_48
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2531
+        width: 211
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_49
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2536
+        width: 210
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_50
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2546
+        width: 211
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_51
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2527
+        width: 210
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_52
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 2522
+        width: 210
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_53
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 2515
+        width: 211
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_54
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2204
+        width: 209
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_55
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2209
+        width: 209
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_56
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 2209
+        width: 213
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_57
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 2211
+        width: 215
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_58
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 2200
+        width: 212
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_59
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 2188
+        width: 213
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_60
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1927
+        width: 213
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_61
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1913
+        width: 209
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1912
+        width: 213
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_63
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1926
+        width: 211
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_64
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1915
+        width: 211
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_65
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1901
+        width: 206
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_66
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1634
+        width: 204
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_67
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1623
+        width: 205
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_68
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1611
+        width: 206
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_69
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1607
+        width: 206
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_70
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1600
+        width: 203
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_71
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1606
+        width: 205
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_72
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1349
+        width: 201
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_73
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1329
+        width: 206
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_74
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1321
+        width: 199
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_75
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1314
+        width: 201
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_76
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1299
+        width: 199
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_77
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1296
+        width: 199
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_78
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1036
+        width: 197
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_79
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1023
+        width: 198
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_80
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1030
+        width: 197
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_81
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1016
+        width: 196
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_82
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 995
+        width: 192
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_83
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 987
+        width: 185
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_84
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 689
+        width: 182
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_85
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 703
+        width: 176
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_86
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 698
+        width: 171
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_87
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 667
+        width: 166
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_88
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 668
+        width: 162
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_89
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 651
+        width: 161
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_90
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 381
+        width: 162
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_91
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 383
+        width: 162
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_92
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 385
+        width: 162
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_93
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 364
+        width: 161
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_94
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 371
+        width: 161
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_95
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 364
+        width: 162
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_96
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 44
+        width: 162
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_97
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 33
+        width: 162
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_98
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 33
+        width: 162
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_99
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 33
+        width: 161
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shooting.png 1.2-02_100
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 16
+        width: 161
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
