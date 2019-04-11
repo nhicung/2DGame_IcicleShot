@@ -10,7 +10,7 @@ public class P1controller : MonoBehaviour
     public fireball fireball;
     //public LayerMask whatToHit;
     private Rigidbody rb;
-    public Animator myAnim;
+    Animator myAnim;
     bool facingright;
     public GameObject LevelComplete;
     public GameObject LevelLose;
@@ -26,7 +26,7 @@ public class P1controller : MonoBehaviour
     public static bool paused;
 
     public float restartDelay = 5f;
-    
+
     float restartTimer;
     public Move moveValue;
 
@@ -52,7 +52,7 @@ public class P1controller : MonoBehaviour
             CheckIfGameWon();
             return;
         }
-        
+        print("paused" + paused);
         if (paused)
         {
             return; 
@@ -72,6 +72,8 @@ public class P1controller : MonoBehaviour
             moveHorizontal=0;
         }
 
+
+
         Vector3 movement = new Vector3(moveHorizontal, moveVertical);
         //rb.velocity = movement * speed;
 
@@ -89,19 +91,7 @@ public class P1controller : MonoBehaviour
         }
         if (Input.GetMouseButtonDown(0))
         {
-            float mousex = Camera.main.ScreenToWorldPoint(Input.mousePosition).x;
-            float playerx = (this.transform.position).x;
-            if  ((mousex < playerx) && (facingright))
-            {
-                flip();
-            }
-            else if ((mousex > playerx) && (!facingright))
-            {
-                flip();
-            }
-            myAnim.Play("Player Shoot");
-            StartCoroutine(shoot());
-            
+            shoot();
         }
         // wait 
         CheckIfGameWon();
@@ -115,7 +105,7 @@ public class P1controller : MonoBehaviour
         transform.localScale = theScale;
     }
 
-    public IEnumerator shoot()
+    public void shoot()
     {
         float mousex = Camera.main.ScreenToWorldPoint(Input.mousePosition).x;
         float mousey = Camera.main.ScreenToWorldPoint(Input.mousePosition).y;
@@ -136,10 +126,9 @@ public class P1controller : MonoBehaviour
         }
         if (mousex <= BackgroundScript.maxX && mousex >= BackgroundScript.minX && mousey <= BackgroundScript.maxY && mousey >= BackgroundScript.minY)
         {
-            //Wait for 4 seconds
-            yield return new WaitForSeconds(1);
             Instantiate(fireball, this.transform.position, Quaternion.Euler(0, 0, rotation));
             fireball.setPlayer(this);
+            //Move.moveValue -= 1;
         }            
     }
 

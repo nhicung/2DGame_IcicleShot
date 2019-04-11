@@ -5,12 +5,16 @@ using UnityEngine.SceneManagement;
 
 public class levelscreencontroller : MonoBehaviour
 {
+   
     void Start()
     {
   
     }
     public void PlayButton()
     {
-            SceneManager.LoadScene("levelselect");        
+            //Application.LoadLevel("GamePlay");
+            //Time.timeScale = 1f;
+            SceneManager.LoadScene("levelselect");
+        
     }
 }

@@ -5,8 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class SelectController : MonoBehaviour
 {
+
     public void PlayButton()
     {
+        //Application.LoadLevel("GamePlay");
         SceneManager.LoadScene("Instruction");
+
     }
 }

@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class BackgroundScript : MonoBehaviour {
 
-    public static double minX;
-    public static double maxX;
-    public static double minY;
-    public static double maxY;
+    public static bool border;
+    public static float minX=-8;
+    public static float maxX=8;
+    public static float minY;
+    public static float maxY;
 
     // Use this for initialization
     void Start () {
-        minX = -6.5;
-        maxX = 8;
+        minX = -5;
+        maxX = 6;
         minY = -6;
         maxY = 5;
 	}
