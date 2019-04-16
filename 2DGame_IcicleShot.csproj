@@ -280,7 +280,6 @@
     <Compile Include="Assets\Script\move.cs" />
     <Compile Include="Assets\Script\MusicScript.cs" />
     <Compile Include="Assets\Script\NewBehaviourScript.cs" />
-    <Compile Include="Assets\Script\NewBehaviourScript1.cs" />
     <Compile Include="Assets\Script\nextbutton.cs" />
     <Compile Include="Assets\Script\P1controller.cs" />
     <Compile Include="Assets\Script\pauseControlScript1.cs" />
