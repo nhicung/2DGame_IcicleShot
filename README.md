@@ -33,22 +33,19 @@ To play Squishy Squirrel:
 
 ### Title Scene
 
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/Menu.png" width="262" height="458" />
+<img src="https://github.com/nhicung/2DGame_IcicleShot/blob/master/screenshot/start.png" width="30%" height="30%" />
 
 ### Instruction Scene
 
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/Instruction.png" width="262" height="458" />
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/story.png" width="262" height="458" />
+<img src="https://github.com/nhicung/2DGame_IcicleShot/blob/master/screenshot/rule.png" width="30%" height="30%" />
 
 ### Game Play Scene
 
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/gameplay.png" width="262" height="458" />
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/gameplayGif.gif" width="262" height="458" />
+<img src="https://github.com/nhicung/2DGame_IcicleShot/blob/master/screenshot/gameplay.png" width="30%" height="30%" />
 
-### Setting Scene
+### Level Scene
 
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/setting.png" width="262" height="458" />
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/paused.png" width="262" height="458" />
+<img src="https://github.com/nhicung/2DGame_IcicleShot/blob/master/screenshot/level.png" width="30%" height="30%" />
 
 ## Technology
 
