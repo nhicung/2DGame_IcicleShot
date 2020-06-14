@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Install Unity to open this project: https://unity3d.com/get-unity/download/archive
+Install Unity 2017.4.1f1 to open this project: https://unity3d.com/get-unity/download/archive
 
 ### Installing
 
