@@ -39,13 +39,13 @@ To play Squishy Squirrel:
 
 <img src="https://github.com/nhicung/2DGame_IcicleShot/blob/master/screenshot/rule.png" width="30%" height="30%" />
 
-### Game Play Scene
-
-<img src="https://github.com/nhicung/2DGame_IcicleShot/blob/master/screenshot/gameplay.png" width="30%" height="30%" />
-
 ### Level Scene
 
 <img src="https://github.com/nhicung/2DGame_IcicleShot/blob/master/screenshot/level.png" width="30%" height="30%" />
+
+### Game Play Scene
+
+<img src="https://github.com/nhicung/2DGame_IcicleShot/blob/master/screenshot/gameplay.png" width="30%" height="30%" />
 
 ## Technology
 
