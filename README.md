@@ -1,5 +1,5 @@
 # Icicle Shot
-This is a 2D mobile game implemented with Unity and C#. 
+This is a 2D landscape PC game implemented with Unity and C#. 
 
 ## Table of contents
 * [Getting Started](#getting-started)
@@ -25,7 +25,6 @@ Install Unity 2017.4.1f1 to open this project: https://unity3d.com/get-unity/dow
 
 ## Feature
 
-To play Squishy Squirrel:
 * Player can control the imp to the left and right 
 * Shoot down the icicles to acquire the given score goal 
 
@@ -58,6 +57,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 * Contributors: Nola Thompson
-* Instructor: Professor Monica M. McGill
-* Inspiration: Knox College's squirrels
+* Instructor: Professor Monica M. McGill, Professor Tim Stedman, Professor Craig Choma
 
